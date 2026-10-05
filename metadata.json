@@ -1,0 +1,6 @@
+{
+  "name": "SmartPose AI - Intelligent Pose & Wardrobe Stylist",
+  "description": "AI-driven pose suggestions, lighting analysis, and live wardrobe recommendations for cafe, beach, and aesthetic photography.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
